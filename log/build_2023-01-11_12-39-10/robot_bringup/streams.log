@@ -1,0 +1,37 @@
+[0.447s] Invoking command in '/home/cardenas/car_ws/src/robot_bringup': PYTHONPATH=/home/cardenas/car_ws/src/build/robot_bringup/prefix_override:/home/cardenas/car_ws/src/install/robot_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/robot_bringup build --build-base /home/cardenas/car_ws/src/build/robot_bringup/build install --record /home/cardenas/car_ws/src/build/robot_bringup/install.log --single-version-externally-managed
+[0.570s] running egg_info
+[0.570s] creating ../build/robot_bringup/robot_bringup.egg-info
+[0.570s] writing ../build/robot_bringup/robot_bringup.egg-info/PKG-INFO
+[0.570s] writing dependency_links to ../build/robot_bringup/robot_bringup.egg-info/dependency_links.txt
+[0.570s] writing entry points to ../build/robot_bringup/robot_bringup.egg-info/entry_points.txt
+[0.570s] writing requirements to ../build/robot_bringup/robot_bringup.egg-info/requires.txt
+[0.570s] writing top-level names to ../build/robot_bringup/robot_bringup.egg-info/top_level.txt
+[0.571s] writing manifest file '../build/robot_bringup/robot_bringup.egg-info/SOURCES.txt'
+[0.571s] reading manifest file '../build/robot_bringup/robot_bringup.egg-info/SOURCES.txt'
+[0.571s] writing manifest file '../build/robot_bringup/robot_bringup.egg-info/SOURCES.txt'
+[0.571s] running build
+[0.572s] running build_py
+[0.572s] creating /home/cardenas/car_ws/src/build/robot_bringup/build
+[0.572s] creating /home/cardenas/car_ws/src/build/robot_bringup/build/lib
+[0.572s] creating /home/cardenas/car_ws/src/build/robot_bringup/build/lib/robot_bringup
+[0.572s] copying robot_bringup/__init__.py -> /home/cardenas/car_ws/src/build/robot_bringup/build/lib/robot_bringup
+[0.572s] running install
+[0.572s] running install_lib
+[0.572s] creating /home/cardenas/car_ws/src/install/robot_bringup/lib/python3.10/site-packages/robot_bringup
+[0.572s] copying /home/cardenas/car_ws/src/build/robot_bringup/build/lib/robot_bringup/__init__.py -> /home/cardenas/car_ws/src/install/robot_bringup/lib/python3.10/site-packages/robot_bringup
+[0.573s] byte-compiling /home/cardenas/car_ws/src/install/robot_bringup/lib/python3.10/site-packages/robot_bringup/__init__.py to __init__.cpython-310.pyc
+[0.573s] running install_data
+[0.573s] creating /home/cardenas/car_ws/src/install/robot_bringup/share/ament_index
+[0.573s] creating /home/cardenas/car_ws/src/install/robot_bringup/share/ament_index/resource_index
+[0.573s] creating /home/cardenas/car_ws/src/install/robot_bringup/share/ament_index/resource_index/packages
+[0.573s] copying resource/robot_bringup -> /home/cardenas/car_ws/src/install/robot_bringup/share/ament_index/resource_index/packages
+[0.573s] copying package.xml -> /home/cardenas/car_ws/src/install/robot_bringup/share/robot_bringup
+[0.573s] creating /home/cardenas/car_ws/src/install/robot_bringup/share/robot_bringup/launch
+[0.573s] copying launch/robot.launch.py -> /home/cardenas/car_ws/src/install/robot_bringup/share/robot_bringup/launch
+[0.573s] creating /home/cardenas/car_ws/src/install/robot_bringup/share/robot_bringup/params
+[0.573s] copying params/ekf.yaml -> /home/cardenas/car_ws/src/install/robot_bringup/share/robot_bringup/params
+[0.573s] running install_egg_info
+[0.574s] Copying ../build/robot_bringup/robot_bringup.egg-info to /home/cardenas/car_ws/src/install/robot_bringup/lib/python3.10/site-packages/robot_bringup-0.0.0-py3.10.egg-info
+[0.574s] running install_scripts
+[0.583s] writing list of installed files to '/home/cardenas/car_ws/src/build/robot_bringup/install.log'
+[0.598s] Invoked command in '/home/cardenas/car_ws/src/robot_bringup' returned '0': PYTHONPATH=/home/cardenas/car_ws/src/build/robot_bringup/prefix_override:/home/cardenas/car_ws/src/install/robot_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/robot_bringup build --build-base /home/cardenas/car_ws/src/build/robot_bringup/build install --record /home/cardenas/car_ws/src/build/robot_bringup/install.log --single-version-externally-managed

@@ -1,0 +1,21 @@
+[0.456s] Invoking command in '/home/cardenas/car_ws/src/robot_odometry': PYTHONPATH=/home/cardenas/car_ws/src/build/robot_odometry/prefix_override:/home/cardenas/car_ws/src/install/robot_odometry/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/robot_odometry build --build-base /home/cardenas/car_ws/src/build/robot_odometry/build install --record /home/cardenas/car_ws/src/build/robot_odometry/install.log --single-version-externally-managed
+[0.582s] running egg_info
+[0.582s] writing ../build/robot_odometry/robot_odometry.egg-info/PKG-INFO
+[0.582s] writing dependency_links to ../build/robot_odometry/robot_odometry.egg-info/dependency_links.txt
+[0.582s] writing entry points to ../build/robot_odometry/robot_odometry.egg-info/entry_points.txt
+[0.582s] writing requirements to ../build/robot_odometry/robot_odometry.egg-info/requires.txt
+[0.582s] writing top-level names to ../build/robot_odometry/robot_odometry.egg-info/top_level.txt
+[0.583s] reading manifest file '../build/robot_odometry/robot_odometry.egg-info/SOURCES.txt'
+[0.583s] writing manifest file '../build/robot_odometry/robot_odometry.egg-info/SOURCES.txt'
+[0.583s] running build
+[0.583s] running build_py
+[0.583s] running install
+[0.584s] running install_lib
+[0.584s] running install_data
+[0.584s] running install_egg_info
+[0.585s] removing '/home/cardenas/car_ws/src/install/robot_odometry/lib/python3.10/site-packages/robot_odometry-0.0.0-py3.10.egg-info' (and everything under it)
+[0.585s] Copying ../build/robot_odometry/robot_odometry.egg-info to /home/cardenas/car_ws/src/install/robot_odometry/lib/python3.10/site-packages/robot_odometry-0.0.0-py3.10.egg-info
+[0.585s] running install_scripts
+[0.595s] Installing odometry script to /home/cardenas/car_ws/src/install/robot_odometry/lib/robot_odometry
+[0.596s] writing list of installed files to '/home/cardenas/car_ws/src/build/robot_odometry/install.log'
+[0.610s] Invoked command in '/home/cardenas/car_ws/src/robot_odometry' returned '0': PYTHONPATH=/home/cardenas/car_ws/src/build/robot_odometry/prefix_override:/home/cardenas/car_ws/src/install/robot_odometry/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/robot_odometry build --build-base /home/cardenas/car_ws/src/build/robot_odometry/build install --record /home/cardenas/car_ws/src/build/robot_odometry/install.log --single-version-externally-managed

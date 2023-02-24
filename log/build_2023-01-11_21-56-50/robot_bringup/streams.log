@@ -1,0 +1,20 @@
+[0.467s] Invoking command in '/home/cardenas/car_ws/src/robot_bringup': PYTHONPATH=/home/cardenas/car_ws/src/build/robot_bringup/prefix_override:/home/cardenas/car_ws/src/install/robot_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/robot_bringup build --build-base /home/cardenas/car_ws/src/build/robot_bringup/build install --record /home/cardenas/car_ws/src/build/robot_bringup/install.log --single-version-externally-managed
+[0.589s] running egg_info
+[0.590s] writing ../build/robot_bringup/robot_bringup.egg-info/PKG-INFO
+[0.590s] writing dependency_links to ../build/robot_bringup/robot_bringup.egg-info/dependency_links.txt
+[0.590s] writing entry points to ../build/robot_bringup/robot_bringup.egg-info/entry_points.txt
+[0.590s] writing requirements to ../build/robot_bringup/robot_bringup.egg-info/requires.txt
+[0.590s] writing top-level names to ../build/robot_bringup/robot_bringup.egg-info/top_level.txt
+[0.591s] reading manifest file '../build/robot_bringup/robot_bringup.egg-info/SOURCES.txt'
+[0.591s] writing manifest file '../build/robot_bringup/robot_bringup.egg-info/SOURCES.txt'
+[0.591s] running build
+[0.591s] running build_py
+[0.591s] running install
+[0.591s] running install_lib
+[0.592s] running install_data
+[0.592s] running install_egg_info
+[0.593s] removing '/home/cardenas/car_ws/src/install/robot_bringup/lib/python3.10/site-packages/robot_bringup-0.0.0-py3.10.egg-info' (and everything under it)
+[0.593s] Copying ../build/robot_bringup/robot_bringup.egg-info to /home/cardenas/car_ws/src/install/robot_bringup/lib/python3.10/site-packages/robot_bringup-0.0.0-py3.10.egg-info
+[0.593s] running install_scripts
+[0.603s] writing list of installed files to '/home/cardenas/car_ws/src/build/robot_bringup/install.log'
+[0.623s] Invoked command in '/home/cardenas/car_ws/src/robot_bringup' returned '0': PYTHONPATH=/home/cardenas/car_ws/src/build/robot_bringup/prefix_override:/home/cardenas/car_ws/src/install/robot_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/robot_bringup build --build-base /home/cardenas/car_ws/src/build/robot_bringup/build install --record /home/cardenas/car_ws/src/build/robot_bringup/install.log --single-version-externally-managed
